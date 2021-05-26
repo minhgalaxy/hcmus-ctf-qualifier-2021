@@ -1,5 +1,7 @@
 Ý tưởng bài này là ghi đè địa chỉ trả về, mục đích là thay đổi luồng chương trình để gọi hàm `getFlag`.
 
+Hàm **Register**:
+
 ```asm
 .text:08048531 ; =============== S U B R O U T I N E =======================================
 .text:08048531

@@ -1,3 +1,5 @@
+Hàm **main**:
+
 ```asm
 .text:0804927F ; int __cdecl main(int argc, const char **argv, const char **envp)
 .text:0804927F                 public main
