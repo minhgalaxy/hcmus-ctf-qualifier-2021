@@ -1,0 +1,1 @@
+Yêu cầu của bài này là làm thay đổi giá trị của biến `balance`. Chỉ cần nhập tên thật nhiều ký tự sẽ làm tràn bộ nhớ đệm và giá trị biến `balance` lưu trong stack cũng bị thay đổi.
